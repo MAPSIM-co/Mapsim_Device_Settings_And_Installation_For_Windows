@@ -1,5 +1,5 @@
 # Mapsim_Windows7_Device
-Windows 7
+For Windows 7 setting device 
 
 ---
 
@@ -10,19 +10,21 @@ This `README.md` file provides a comprehensive, step-by-step guide in English fo
 
 ## Step 0      
 
-*After Download [Zip File](https://github.com/Mpouransari/Mapsim_Windows7_Device.git) 
+After Downloading [Zip File](https://github.com/Mpouransari/Mapsim_Windows7_Device.git) 
 
 -Run [Mapsim_installer_windows7.py]
 
-- You need install [Python 3.8.10](https://www.python.org/ftp/python/3.8.10/python-3.8.10.exe) For Windows 7
+- You need installation [Python 3.8.10](https://www.python.org/ftp/python/3.8.10/python-3.8.10.exe) For Windows 7
 
-- **** IMPORTANT 🚨🚨 : When installing software Python, please this select choice : " [Add python 3.8 to PATH] "
+- ** IMPORTANT 🚨🚨 : 
 
--And install in CMD:
+  When installing software Python, please this select choice : " [Add python 3.8 to PATH] "
+
+-And after install python , go to CMD and Copy and Paste command in CMD :
           
           pip install python-dotenv
 
-** if you nedd recommend for run python file go to Recommend in the Page END .
+** if you nedd recommend for run python file (*.py) , go to Recommend in the Page END .
 
 
 # Steps to Generate and Use an SSH Key for GitHub Access (Windows)
