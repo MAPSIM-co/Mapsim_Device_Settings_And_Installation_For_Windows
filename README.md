@@ -10,7 +10,7 @@ This `README.md` file provides a comprehensive, step-by-step guide in English fo
 
 ##Step 0
           
-          ```bash
+          
           pip install python-dotenv
 
 
