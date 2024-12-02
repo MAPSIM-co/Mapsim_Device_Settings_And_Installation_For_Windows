@@ -70,6 +70,13 @@ This will display the SSH public key in the terminal. It will look similar to th
 ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEArjRPYcA1g7HJtt1My... (long key)
 Highlight and copy the entire public key text. You can use your mouse or the keyboard shortcut Ctrl + Shift + C to copy it.
 
+if not copy in Git Bash :
+
+ - Copy & Past in CMD:
+
+          type %USERPROFILE%\.ssh\id_rsa.pub
+
+
 ---
 
 ##Step 5: Test Your SSH Connection to GitHub
