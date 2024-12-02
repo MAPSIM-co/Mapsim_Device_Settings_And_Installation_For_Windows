@@ -61,9 +61,11 @@ Next, you will be asked to enter a passphrase (optional). Enter a passphrase for
 
 ---
 
-## Step 3: View and Copy the SSH Public Key
+## Step 3: View and Copy the SSH Public Key in Git Bash
+
 
 Once the key is generated, view your new SSH public key with the following command:
+
           cat ~/.ssh/id_rsa.pub
 
 This will display the SSH public key in the terminal. It will look similar to the following:
@@ -72,7 +74,7 @@ Highlight and copy the entire public key text. You can use your mouse or the key
 
 if not copy in Git Bash :
 
- - Copy & Past in CMD:
+ - Copy & Past in ** CMD ** :
 
           type %USERPROFILE%\.ssh\id_rsa.pub
 
