@@ -11,7 +11,7 @@ This `README.md` file provides a comprehensive, step-by-step guide in English fo
 
 ## Step 0      
 
-After Downloading [Zip File](https://github.com/Mpouransari/Mapsim_Windows7_Device.git) 
+After Downloading [Zip File](https://github.com/Mpouransari/Mapsim_Windows7_Device.git) And Extract Folder:
 
 -Run [Mapsim_installer_windows7.py]
 
@@ -21,11 +21,11 @@ After Downloading [Zip File](https://github.com/Mpouransari/Mapsim_Windows7_Devi
 
   When installing software Python, please this select choice : " [Add python 3.8 to PATH] "
 
--And after install python , go to CMD and Copy and Paste command in CMD :
+-And after install python , go to your command line and then Copy and Past this command in the CMD :
           
           pip install python-dotenv
 
-** if you nedd recommend for run python file (*.py) , go to Recommend in the Page END .
+** if you nedd guide will for run python file (*.py) , you can go to Recommend step in the Page Ended .
 
 
 # Steps to Generate and Use an SSH Key for GitHub Access (Windows)
