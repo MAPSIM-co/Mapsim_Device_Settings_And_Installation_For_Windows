@@ -116,7 +116,7 @@ successful . . . 🔥
 
 ---
 
-## Recommend 
+## Recommended
 
 Your Recommend Command  CMD :
 
