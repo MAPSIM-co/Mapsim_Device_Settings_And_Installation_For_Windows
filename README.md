@@ -61,10 +61,10 @@ Next, you will be asked to enter a passphrase (optional). Enter a passphrase for
 
 ---
 
-##Step 3: View and Copy the SSH Public Key
+## Step 3: View and Copy the SSH Public Key
 
 Once the key is generated, view your new SSH public key with the following command:
-          -[cat ~/.ssh/id_rsa.pub]
+          cat ~/.ssh/id_rsa.pub
 
 This will display the SSH public key in the terminal. It will look similar to the following:
 ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEArjRPYcA1g7HJtt1My... (long key)
