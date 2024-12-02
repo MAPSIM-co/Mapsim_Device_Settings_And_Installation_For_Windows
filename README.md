@@ -22,6 +22,8 @@ This `README.md` file provides a comprehensive, step-by-step guide in English fo
           
           pip install python-dotenv
 
+** if you nedd recommend for run python file go to Recommend in the Page END .
+
 
 # Steps to Generate and Use an SSH Key for GitHub Access (Windows)
 
@@ -91,7 +93,15 @@ if not copy in Git Bash :
 
 ---
 
-##Step 4: Test Your SSH Connection to GitHub
+##Step 4: 
+
+Send Public Key to Us With [Telegram](https://t.me/Tarantula_support_bot) 
+
+And Wait for Activation . After Message Activation your Key Go to STEP 5 .
+
+---
+
+##Step 5: Test Your SSH Connection to GitHub
 
 To verify that everything is set up correctly, run the following command in Git Bash:
 
@@ -106,13 +116,25 @@ successful . . . 🔥
 
 ---
 
-##Step 5: 
+## Recommend 
 
-Send Public Key to Us With [Telegram](https://t.me/Tarantula_support_bot) 
+Your Recommend Command  CMD :
 
-And Wait for Activation .
+- RUN Python File :
+
+           python Mapsim_installer_windows7.py
+
+- If Show "Installation completed successfully. You can now run the program by clicking on the batch file." Go To Your Desktop and Click on
+
+            run_program.bat
 
 ---
+
+## Step Finall 
+
+   -[ RUN MAPSIM Device ASSiSTANCE BOT ]
+
+---           
 
 
 
