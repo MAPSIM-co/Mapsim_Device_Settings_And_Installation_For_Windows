@@ -10,7 +10,7 @@ This `README.md` file provides a comprehensive, step-by-step guide in English fo
 
 ## Step 0      
 
-*After Download [https://github.com/Mpouransari/Mapsim_Windows7_Device.git] 
+*After Download [Zip File](https://github.com/Mpouransari/Mapsim_Windows7_Device.git) 
 
 -Run [Mapsim_installer_windows7.py]
 
@@ -27,11 +27,11 @@ This guide will walk you through the steps to generate a new SSH key and add it 
 
 1. **Git Bash**: Ensure that you have **Git Bash** installed on your system. If not, you can download and install it from the following link:
    
-   - [Download Git V2.47.1 for Windows]([(https://github.com/git-for-windows/git/releases/download/v2.47.1.windows.1/Git-2.47.1-32-bit.exe)])
+   - [Download Git V2.47.1 for Windows]((https://github.com/git-for-windows/git/releases/download/v2.47.1.windows.1/Git-2.47.1-32-bit.exe))
      
    - OR
      
-   - [Download Git Last Version For Windows]([https://git-scm.com/])
+   - [Download Git Last Version For Windows](https://git-scm.com/)
      
 
 3. **GitHub Account**: You should have an active GitHub account. If you don't have one, you can create it [here](https://github.com/join).
