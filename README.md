@@ -14,6 +14,8 @@ This `README.md` file provides a comprehensive, step-by-step guide in English fo
 
 -Run [Mapsim_installer_windows7.py]
 
+- You need install [Python 3.8.10](https://www.python.org/ftp/python/3.8.10/python-3.8.10.exe) For Windows 7
+
 -And install in CMD:
           
           pip install python-dotenv
