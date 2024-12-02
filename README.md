@@ -26,9 +26,15 @@ This guide will walk you through the steps to generate a new SSH key and add it 
 ## Prerequisites
 
 1. **Git Bash**: Ensure that you have **Git Bash** installed on your system. If not, you can download and install it from the following link:
-   - [Download Git for Windows](https://git-scm.com/)
+   
+   - [Download Git V2.47.1 for Windows]([(https://github.com/git-for-windows/git/releases/download/v2.47.1.windows.1/Git-2.47.1-32-bit.exe)])
+     
+   - OR
+     
+   - [Download Git Last Version For Windows]([https://git-scm.com/])
+     
 
-2. **GitHub Account**: You should have an active GitHub account. If you don't have one, you can create it [here](https://github.com/join).
+3. **GitHub Account**: You should have an active GitHub account. If you don't have one, you can create it [here](https://github.com/join).
 
 ---
 
