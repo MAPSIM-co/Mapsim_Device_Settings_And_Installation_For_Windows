@@ -87,7 +87,7 @@ if not copy in Git Bash :
 
 ---
 
-##Step 5: Test Your SSH Connection to GitHub
+##Step 4: Test Your SSH Connection to GitHub
 
 To verify that everything is set up correctly, run the following command in Git Bash:
 
@@ -99,4 +99,14 @@ If everything is working correctly, you should see a message like this:
 This means your SSH key is correctly added and you can now interact with GitHub repositories without needing to enter a password each time."]
 
 ---
+
+##Step 5: 
+
+Send Public Key to Us With [Telegram](https://t.me/Tarantula_support_bot) 
+
+And Wait for Activation .
+
+---
+
+
 
