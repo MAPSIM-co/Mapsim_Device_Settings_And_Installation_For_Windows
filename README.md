@@ -91,12 +91,14 @@ if not copy in Git Bash :
 
 To verify that everything is set up correctly, run the following command in Git Bash:
 
--[ssh -T git@github.com]
+-           ssh -T git@github.com
 
 If everything is working correctly, you should see a message like this:
 
-["Hi your_username! You've successfully authenticated, but GitHub does not provide shell access.
-This means your SSH key is correctly added and you can now interact with GitHub repositories without needing to enter a password each time."]
+           "Hi your_username! You've successfully authenticated, but GitHub does not provide shell access.
+            This means your SSH key is correctly added and you can now interact with GitHub repositories without needing to enter a password each time."
+
+successful . . . 🔥
 
 ---
 
