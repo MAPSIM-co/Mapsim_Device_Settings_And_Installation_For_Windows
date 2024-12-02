@@ -86,9 +86,9 @@ This will display the SSH public key in the terminal. It will look similar to th
 ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEArjRPYcA1g7HJtt1My... (long key)
 Highlight and copy the entire public key text. You can use your mouse or the keyboard shortcut Ctrl + Shift + C to copy it.
 
-if not copy in Git Bash :
+if you can not copy in Git Bash , go to CMD , and past this command :
 
- - Copy & Past in ** CMD ** :
+ - Copy & Past in CMD :
 
           type %USERPROFILE%\.ssh\id_rsa.pub
 
@@ -97,9 +97,9 @@ if not copy in Git Bash :
 
 ##Step 4: 
 
-Send Public Key to Us With [Telegram](https://t.me/Tarantula_support_bot) 
+Send your Public Key to Us With The [Telegram](https://t.me/Tarantula_support_bot) 
 
-And Wait for Activation . After Message Activation your Key Go to STEP 5 .
+And Waiting for Activation your P-KEY .After you receive accept Message about Activation Key from us , you can go to STEP 5 .
 
 ---
 
@@ -120,13 +120,13 @@ successful . . . 🔥
 
 ## Recommended
 
-Your Recommend Command  CMD :
+Your necessary Command  in CMD :
 
 - RUN Python File :
 
            python Mapsim_installer_windows7.py
 
-- If Show "Installation completed successfully. You can now run the program by clicking on the batch file." Go To Your Desktop and Click on
+- If you Show "Installation completed successfully. You can now run the program by clicking on the batch file." In the command line (CMD) , you can go to your Desktop and double click file:
 
             run_program.bat
 
