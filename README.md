@@ -25,7 +25,7 @@ After Downloading [Zip File](https://github.com/Mpouransari/Mapsim_Windows7_Devi
           
           pip install python-dotenv
 
-** if you nedd guide will for run python file (*.py) , you can go to Recommend step in the Page Ended .
+** if you nedd guide will for run python file (*.py) , you can go to step "Recommend" at the under this Page .
 
 
 # Steps to Generate and Use an SSH Key for GitHub Access (Windows)
