@@ -1,4 +1,5 @@
-# Mapsim_Windows7_Device
+# Mapsim Windows7 Device Settings And Installation 
+
 For Windows 7 setting device 
 
 ---
