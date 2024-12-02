@@ -9,7 +9,8 @@ This `README.md` file provides a comprehensive, step-by-step guide in English fo
 ---
 
 ##Step 0
-          - [pip install python-dotenv]
+          ```bash
+          pip install python-dotenv
 
 # Steps to Generate and Use an SSH Key for GitHub Access (Windows)
 
@@ -46,7 +47,7 @@ This command will create a new SSH key using the RSA algorithm and a key size of
 
 When prompted to "Enter a file in which to save the key," press Enter to accept the default file location. By default, this is:
 
-[/c/Users/YourUsername/.ssh/id_rsa]
+          -[/c/Users/YourUsername/.ssh/id_rsa]
 
 * If you have already created an SSH key, you can either overwrite it or save it with a different name.
 Next, you will be asked to enter a passphrase (optional). Enter a passphrase for additional security, or press Enter to leave it empty (this is optional, but recommended for better security).
