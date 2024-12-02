@@ -10,8 +10,8 @@ This `README.md` file provides a comprehensive, step-by-step guide in English fo
 
 ##Step 0
           
-   ```bash
-   pip install python-dotenv
+```bash
+pip install python-dotenv
 
 
 # Steps to Generate and Use an SSH Key for GitHub Access (Windows)
