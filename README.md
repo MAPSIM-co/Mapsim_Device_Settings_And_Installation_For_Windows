@@ -16,6 +16,8 @@ This `README.md` file provides a comprehensive, step-by-step guide in English fo
 
 - You need install [Python 3.8.10](https://www.python.org/ftp/python/3.8.10/python-3.8.10.exe) For Windows 7
 
+- **** IMPORTANT 🚨🚨 : When install Python Choice "Add python 3.8 to PATH "
+
 -And install in CMD:
           
           pip install python-dotenv
