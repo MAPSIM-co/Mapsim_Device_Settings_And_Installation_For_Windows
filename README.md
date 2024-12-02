@@ -11,8 +11,10 @@ This `README.md` file provides a comprehensive, step-by-step guide in English fo
 ## Step 0      
 
 *After Download [https://github.com/Mpouransari/Mapsim_Windows7_Device.git] 
-Run [Mapsim_installer_windows7.py]
-And install in CMD:
+
+-Run [Mapsim_installer_windows7.py]
+
+-And install in CMD:
           
           pip install python-dotenv
 
