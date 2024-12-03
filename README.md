@@ -121,13 +121,13 @@ successful . . . 🔥
 
 ## Recommended
 
-Your necessary Command  in CMD :
+necessary command  for you in CMD :
 
-- RUN Python File :
+- For RUN Python File :
 
            python Mapsim_installer_windows7.py
 
-- If you Show "Installation completed successfully. You can now run the program by clicking on the batch file." In the command line (CMD) , you can go to your Desktop and double click file:
+- If you see this message "Installation completed successfully. You can now run the program by clicking on the batch file." , at the (CMD) , now you can go to your Desktop folder and then can running this file:
 
             run_program.bat
 
