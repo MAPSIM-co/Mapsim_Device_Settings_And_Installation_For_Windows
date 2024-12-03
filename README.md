@@ -137,9 +137,9 @@ necessary command  for you in CMD :
 
   Congratulations . . . 🎉
 
-  Now you can Runing Applications:
+  Now , you can run :
 
-   -[ RUN MAPSIM Device ASSiSTANCE BOT ]
+   -[**RUN MAPSIM Device ASSiSTANCE BOT**]
 
 ---           
 
