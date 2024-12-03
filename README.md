@@ -50,7 +50,7 @@ This guide will walk you through the steps to generate a new SSH key and add it 
 ## Step 1: Install Git Bash
 
 1. Download and install **Git Bash** from the link above.
-2. After installation, open **Git Bash**.
+2. After installation, open **Git Bash** from START menu windows .
 
 ---
 
