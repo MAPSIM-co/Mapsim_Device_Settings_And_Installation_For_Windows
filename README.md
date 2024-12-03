@@ -87,7 +87,7 @@ This will display the SSH public key in the terminal. It will look similar to th
 ssh-rsa **AAAAB3NzaC1yc2EAAAABIwAAAQEArjRPYcA1g7HJtt1My**... (long key)
 Highlight and copy the entire public key text. You can use your mouse or the keyboard shortcut Ctrl + Shift + C to copy it.
 
-if you can not copy in Git Bash , you can going to CMD , and paste this command :
+if you can not copy in Git Bash Terminal , you can go to CMD , and paste this command :
 
  - Copy & Paste in CMD :
 
