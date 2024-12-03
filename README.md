@@ -11,7 +11,7 @@ This `README.md` file provides a comprehensive, step-by-step guide in English fo
 
 ## Step 0      
 
-After Downloading [Zip File](https://github.com/Mpouransari/Mapsim_Windows7_Device.git) And Extract Folder:
+After Downloading [Zip File](https://github.com/Mpouransari/Mapsim_Windows7_Device/archive/refs/heads/main.zip) And Extract Folder:
 
 -Run [Mapsim_installer_windows7.py]
 
