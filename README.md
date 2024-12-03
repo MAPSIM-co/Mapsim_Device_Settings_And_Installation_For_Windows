@@ -19,13 +19,13 @@ After Downloading [Zip File](https://github.com/Mpouransari/Mapsim_Windows7_Devi
 
 - ** IMPORTANT 🚨🚨 : 
 
-  When installing software Python, please this select choice : " [Add python 3.8 to PATH] "
+  When installing software Python, please this select choice : " [**Add python 3.8 to PATH**] "
 
 -And after install python , go to your command line and then Copy and Paste this command in the CMD :
           
           pip install python-dotenv
 
-** if you need guide for running python file (*.py) , you can go to step "Recommended" at the under this Page .
+** if you need guide for running python file (*.py) , you can go to step "**Recommended**" at the under this Page .
 
 
 # Steps to Generate and Use an SSH Key for GitHub Access (Windows)
@@ -84,7 +84,7 @@ Once the key is generated, view your new SSH public key with the following comma
           cat ~/.ssh/id_rsa.pub
 
 This will display the SSH public key in the terminal. It will look similar to the following:
-ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEArjRPYcA1g7HJtt1My... (long key)
+ssh-rsa **AAAAB3NzaC1yc2EAAAABIwAAAQEArjRPYcA1g7HJtt1My**... (long key)
 Highlight and copy the entire public key text. You can use your mouse or the keyboard shortcut Ctrl + Shift + C to copy it.
 
 if you can not copy in Git Bash , you can going to CMD , and paste this command :
@@ -100,7 +100,7 @@ if you can not copy in Git Bash , you can going to CMD , and paste this command 
 
 Send your Public Key to Us With The [Telegram](https://t.me/Tarantula_support_bot) 
 
-And Waiting for Activation your P-KEY .After you receive accept Message about Activation Key from us , you can go to STEP 5 .
+And Waiting for Activation your P-KEY .**After you receive accept Message about Activation Key from us**, you can go to STEP 5 .
 
 ---
 
