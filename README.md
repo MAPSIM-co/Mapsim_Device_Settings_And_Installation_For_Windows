@@ -19,7 +19,7 @@ After Downloading [Zip File](https://github.com/Mpouransari/Mapsim_Windows7_Devi
 
 - **IMPORTANT** 🚨🚨 : 
 
-  When installing software Python, please this select choice : " [**Add python 3.8 to PATH**] "
+  When installing software Python, please select : " [**Add python 3.8 to PATH**] "
 
 -And after install python , go to your command line and then Copy and Paste this command in the CMD :
           
