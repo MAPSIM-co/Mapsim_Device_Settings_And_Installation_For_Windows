@@ -17,7 +17,7 @@ After Downloading [Zip File](https://github.com/Mpouransari/Mapsim_Windows7_Devi
 
 - You need installation [Python 3.8.10](https://www.python.org/ftp/python/3.8.10/python-3.8.10.exe) For Windows 7
 
-- ** IMPORTANT 🚨🚨 : 
+- **IMPORTANT** 🚨🚨 : 
 
   When installing software Python, please this select choice : " [**Add python 3.8 to PATH**] "
 
