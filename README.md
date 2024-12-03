@@ -1,6 +1,6 @@
-# Mapsim Windows7 Device Settings And Installation 
+# Mapsim Device Settings And Installation For Windows 7
 
-For Windows 7 setting device 
+this user manually Applicable only for windows 7 
 
 ---
 
@@ -21,7 +21,7 @@ After Downloading [Zip File](https://github.com/Mpouransari/Mapsim_Windows7_Devi
 
   When installing software Python, please this select choice : " [Add python 3.8 to PATH] "
 
--And after install python , go to your command line and then Copy and Past this command in the CMD :
+-And after install python , go to your command line and then Copy and Paste this command in the CMD :
           
           pip install python-dotenv
 
@@ -87,9 +87,9 @@ This will display the SSH public key in the terminal. It will look similar to th
 ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEArjRPYcA1g7HJtt1My... (long key)
 Highlight and copy the entire public key text. You can use your mouse or the keyboard shortcut Ctrl + Shift + C to copy it.
 
-if you can not copy in Git Bash , go to CMD , and past this command :
+if you can not copy in Git Bash , you can going to CMD , and paste this command :
 
- - Copy & Past in CMD :
+ - Copy & Paste in CMD :
 
           type %USERPROFILE%\.ssh\id_rsa.pub
 
@@ -115,7 +115,7 @@ If everything is working correctly, you should see a message like this:
            "Hi your_username! You've successfully authenticated, but GitHub does not provide shell access.
             This means your SSH key is correctly added and you can now interact with GitHub repositories without needing to enter a password each time."
 
-successful . . . 🔥
+successfully . . . 🔥
 
 ---
 
