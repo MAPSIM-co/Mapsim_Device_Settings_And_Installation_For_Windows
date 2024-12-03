@@ -1,6 +1,6 @@
 # Mapsim Device Settings And Installation For Windows 7
 
-this user manually Applicable only for windows 7 
+This manually uses only for windows 7 , if you problem this other issue, please contact us.
 
 ---
 
