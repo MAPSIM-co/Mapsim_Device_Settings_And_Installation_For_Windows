@@ -142,7 +142,12 @@ necessary command  for you in CMD :
 
    -[**RUN MAPSIM Device ASSiSTANCE BOT**]
 
----           
----
+————————————————————————————————————
+
+# License 📝
+
+MIT License
+
+&copy; 2025 MAPSIM.co  All rights reserved.
 
 
