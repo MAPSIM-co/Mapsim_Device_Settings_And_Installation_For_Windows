@@ -96,7 +96,7 @@ if you can not copy in Git Bash , you can going to CMD , and paste this command 
 
 ---
 
-##Step 4: 
+## Step 4: 
 
 Send your Public Key to Us With The [Telegram](https://t.me/Tarantula_support_bot) 
 
@@ -104,7 +104,7 @@ And Waiting for Activation your P-KEY .After you receive accept Message about Ac
 
 ---
 
-##Step 5: Test Your SSH Connection to GitHub
+## Step 5: Test Your SSH Connection to GitHub
 
 To verify that everything is set up correctly, run the following command in Git Bash:
 
