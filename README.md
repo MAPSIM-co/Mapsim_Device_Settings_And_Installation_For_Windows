@@ -1,4 +1,4 @@
-=# Mapsim Device Settings And Installation For Windows 7
+# Mapsim Device Settings And Installation For Windows 7
 
 This manually guided uses only for windows 7 ,(not other OS), if you problem about guide or not understand anyone steps , please contact us.
 
