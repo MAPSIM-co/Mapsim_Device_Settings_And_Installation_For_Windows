@@ -15,7 +15,8 @@ After Downloading [Zip File](https://github.com/Mpouransari/Mapsim_Windows7_Devi
 
 -Run and installation [Mapsim_device_driver-1.6.4.zip] Usb port in Hardware :
 
- Update Driver USB Port 
+
+* Update Driver USB Port 
 
 -Run [Mapsim_installer_windows7.py]
 
