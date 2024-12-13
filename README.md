@@ -13,6 +13,10 @@ This `README.md` file provides a comprehensive, step-by-step guide in English fo
 
 After Downloading [Zip File](https://github.com/Mpouransari/Mapsim_Windows7_Device/archive/refs/heads/main.zip) And Extract Folder:
 
+-Run and installation [Mapsim_device_driver-1.6.4.zip] Usb port in Hardware :
+
+ Update Driver USB Port 
+
 -Run [Mapsim_installer_windows7.py]
 
 - You need installation [Python 3.8.10](https://www.python.org/ftp/python/3.8.10/python-3.8.10.exe) For Windows 7
@@ -135,8 +139,6 @@ necessary command  for you in CMD :
 ---
 
 ## Step Finall 
-
-Install (Mapsim_device_driver-1.6.4.zip)
 
   Congratulations . . . 🎉
 
