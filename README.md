@@ -136,6 +136,8 @@ necessary command  for you in CMD :
 
 ## Step Finall 
 
+Install (Mapsim_device_driver-1.6.4.zip)
+
   Congratulations . . . 🎉
 
   Now , you can run :
