@@ -13,7 +13,7 @@ This `README.md` file provides a comprehensive, step-by-step guide in English fo
 
 After Downloading [Zip File](https://github.com/Mpouransari/Mapsim_Windows7_Device/archive/refs/heads/main.zip) And Extract Folder:
 
--Run And Installation [Mapsim_device_driver-1.6.4.zip] USB Port In Hardware :
+-Run And Installation [**Mapsim_device_driver-1.6.4.zip**] USB Port In Hardware :
 
 
 * Update Driver USB Port 
