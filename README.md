@@ -9,7 +9,7 @@ This `README.md` file provides a comprehensive, step-by-step guide in English fo
 
 ---
 
-## Step 0      
+## Step 0 : Download Zip File , Python And Driver Device      
 
 After Downloading [Zip File](https://github.com/MAPSIM-co/Mapsim_Windows7_Device/archive/refs/heads/main.zip) And Extract Folder:
 
