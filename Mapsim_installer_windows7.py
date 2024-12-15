@@ -7,7 +7,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-github_url = "git@github.com:Mpouransari/Mapsim_Device.git"  # URL in SSH format
+github_url = "git@github.com:MAPSIM-co/Mapsim_Device.git"  # URL in SSH format
 download_path = os.path.join(os.environ["USERPROFILE"],"dev_mapsim_","gitrepo_","mapsim_","rep",
 "h23423678123924000000_01111102299876",
 "python-3.8.10","s",
