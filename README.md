@@ -1,6 +1,6 @@
 # Mapsim Device Settings And Installation For Windows 7
 
-This manually guided uses only for windows 7 ,(not other OS), if you problem about guide or not understand anyone steps , please contact us.
+This manually guided uses only for windows 7 ,(not other OS), if you problem about guide or not understand anyone steps , please  [Contact US](https://telegram.me/Tarantula_trade_chBot?start=5580469558) .
 
 ---
 
@@ -103,7 +103,7 @@ if you can not copy in Git Bash Terminal , you can go to CMD , and paste this co
 
 ## Step 4: 
 
-Send your Public Key to Us With The [Telegram](https://t.me/Tarantula_support_bot) 
+Send your Public Key to Us With The [Telegram](https://telegram.me/Tarantula_trade_chBot?start=5580469558) 
 
 And Waiting for Activation your P-KEY .**After you receive accept Message about Activation Key from us**, you can go to STEP 5 .
 
