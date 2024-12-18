@@ -30,6 +30,9 @@ After Downloading [Zip File](https://github.com/MAPSIM-co/Mapsim_Device_Settings
           
           pip install python-dotenv
 
+          pip install pyserial
+
+
 ** if you need guide for running python file (*.py) , you can go to step "**Recommended**" at the under this Page .
 
 
