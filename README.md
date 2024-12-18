@@ -133,6 +133,8 @@ necessary command  for you in CMD :
 
 - For RUN Python File :
 
+    Go to Location Folder File And Run This Command :
+
            python Mapsim_installer_windows7.py
 
 - If you see this message "**Installation completed successfully. You can now run the program by clicking on the batch file**" , at the (CMD) , now you can go to your Desktop folder and then can running this file:
