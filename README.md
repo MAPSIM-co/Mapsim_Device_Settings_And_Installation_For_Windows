@@ -11,7 +11,7 @@ This `README.md` file provides a comprehensive, step-by-step guide in English fo
 
 ## Step 0 : Download & Installation Zip , Python And Driver Device      
 
-After Downloading [Zip File](https://github.com/MAPSIM-co/Mapsim_Device_Settings_And_Installation_For_Windows7/archive/refs/heads/main.zip) And Extract Folder:
+After Downloading [Zip File](https://github.com/MAPSIM-co/Mapsim_Device_Settings_And_Installation_For_Windows/archive/refs/heads/main.zip) And Extract Folder:
 
 -Run And Installation [**Mapsim_device_driver-1.6.4.zip**] USB Port In Hardware :
 
@@ -21,6 +21,8 @@ After Downloading [Zip File](https://github.com/MAPSIM-co/Mapsim_Device_Settings
 -Run [Mapsim_installer_windows7.py]
 
 - You need installation [Python 3.8.10](https://www.python.org/ftp/python/3.8.10/python-3.8.10.exe) For Windows 7
+
+- If You need Windows 64 bit Please installation [Python Last Version ](https://www.python.org) 
 
 - **IMPORTANT** 🚨🚨 : 
 
@@ -44,11 +46,11 @@ This guide will walk you through the steps to generate a new SSH key and add it 
 
 1. **Git Bash**: Ensure that you have **Git Bash** installed on your system. If not, you can download and install it from the following link:
    
-   - [Download Git V2.47.1 for Windows](https://github.com/git-for-windows/git/releases/download/v2.47.1.windows.1/Git-2.47.1-32-bit.exe)
+   - [Download Git V2.47.1 for Windows 32 bit](https://github.com/git-for-windows/git/releases/download/v2.47.1.windows.1/Git-2.47.1-32-bit.exe)
      
    - OR
      
-   - [Download Git Last Version For Windows](https://git-scm.com/)
+   - [Download Git Last Version For Windows 64 bit ](https://git-scm.com/)
      
 
 3. **GitHub Account**: You should have an active GitHub account. If you don't have one, you can create it [here](https://github.com/join).
@@ -135,7 +137,11 @@ necessary command  for you in CMD :
 
     Go to Location Folder File And Run This Command :
 
-           python Mapsim_installer_windows7.py
+           python Mapsim_installer_windows.py
+
+           - OR
+
+           python3 Mapsim_installer_windows.py
 
 - If you see this message "**Installation completed successfully. You can now run the program by clicking on the batch file**" , at the (CMD) , now you can go to your Desktop folder and then can running this file:
 
