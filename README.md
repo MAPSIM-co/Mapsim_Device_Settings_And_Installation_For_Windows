@@ -139,7 +139,7 @@ necessary command  for you in CMD :
 
            python Mapsim_installer_windows.py
 
-           - OR
+      - OR
 
            python3 Mapsim_installer_windows.py
 
